@@ -145,9 +145,6 @@
 ||ourdailyrevelationsph.com/*
 ||peanutdaily.com/*
 ||phbuzzer.com/*
-||Philippine fake news site. No About Us. Imitates metro.co.uk/*
-||Philippine fake news site. Now redirects to thephpride.blogspot.com/*
-||Philippine fake news site. Redirects to says.com/*
 ||philippinenewsnetwork.com/*
 ||philippinenewspapers.net/*
 ||philippinesonline.info/*
