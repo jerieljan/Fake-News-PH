@@ -136,6 +136,7 @@
 ||newspaperph.com/*
 ||newstitans.com/*
 ||newstrendph.com/*
+||newstwerk.com/*
 ||ofw.amwstv.com/*
 ||ofwreport.net/*
 ||okd2.com/*
